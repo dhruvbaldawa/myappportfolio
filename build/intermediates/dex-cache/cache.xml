@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/dhruv/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/dhruv/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/pre-dexed/debug/classes-71bfef840b123281135b9d0ee7b04d7d31cbf773.jar" />
+    </item>
+    <item
+        jar="/home/dhruv/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/dhruv/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/pre-dexed/debug/classes-d60f5a007872b4c818e2bfdf9d8e888f147182ae.jar" />
+    </item>
+    <item
+        jar="/home/dhruv/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/home/dhruv/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-7d26f9d0dc63ebc3eacc62ddcd462c88c8b9b371.jar" />
+    </item>
+    <item
+        jar="/home/dhruv/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/dhruv/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-4039c4a2631c46c55c965b23f589246dc163f9c3.jar" />
+    </item>
+
+</items>
